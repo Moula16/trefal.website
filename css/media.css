@@ -1,0 +1,482 @@
+
+/* ============================================================ */
+/* ========================== home-1 ========================== */
+/* ============================================================ */
+
+@media screen and (min-width:1520px) {
+    .home-1 .header {
+    width: 100%;
+    height: 100vh;
+    gap: 380px;
+    padding-top: 20px;
+    }
+    
+}
+@media screen and (min-width:1520px) {
+    .home-1 .header .logo,
+    .home-1 .header .option .option-1{
+    margin-left: 100px;
+    }
+}
+@media screen and (min-width:1520px) {
+    .home-1 .option {
+    gap: 335px;
+    margin-top: 15px;
+    }
+    
+}
+@media screen and (min-width:1520px) {
+    .home-1 .header .option-1 ul li a,
+    .home-1 .header .option-2 h1,
+    .home-1 .header .option-2 p
+    {
+    font-size: 1.2rem;
+    }
+    
+}
+@media screen and (min-width:1580px) {
+.home-1 .header .logo img {
+    width: 300px;
+    }
+}
+
+/* ======================================================= */
+@media screen and (min-width: 1403px) and (max-width:1520px) {
+    .home-1 .header {
+    width: 100%;
+    height: 100vh;
+    gap: 400px;
+    }
+    
+}
+@media screen and (min-width: 1403px) and (max-width:1520px) {
+    .home-1 .option {
+    gap: 300px;
+    }
+    
+}
+@media screen and (min-width: 1403px) and (max-width:1520px) {
+    .home-1 .header .option-1 ul li a,
+    .home-1 .header .option-2 h1,
+    .home-1 .header .option-2 p
+    {
+    font-size: 1.2rem;
+    }
+    
+}
+/* ================================================================ */
+
+@media screen and (min-width: 1301px) and (max-width:1403px) {
+    .home-1 .header {
+    width: 100%;
+    height: 100vh;
+    gap: 300px;
+    }
+    
+}
+@media screen and (min-width: 1301px) and (max-width:1403px) {
+    .home-1 .option {
+    gap: 300px;
+    }
+    
+}
+@media screen and (min-width: 1301px) and (max-width:1403px) {
+    .home-1 .header .option-1 ul li a,
+    .home-1 .header .option-2 h1,
+    .home-1 .header .option-2 p
+    {
+    font-size: 1.2rem;
+    }
+    
+}
+
+
+/* ====================================================== */
+
+@media screen and (min-width: 1072px) and (max-width:1300px) {
+    .home-1 .header {
+    width: 100%;
+    height: 100vh;
+    gap: 200px;
+    }
+    
+}
+@media screen and (min-width: 1072px) and (max-width:1300px) {
+    .home-1 .option{
+    gap: 300px;
+    }
+    
+}
+@media screen and (min-width: 1072px) and (max-width:1300px) {
+    .home-1 .header .option-1 ul li a,
+    .home-1 .header .option-2 h1,
+    .home-1 .header .option-2 p{
+    font-size: 15px;
+    }
+}
+
+
+/* ======================================================= */
+
+@media screen and (min-width: 910px) and (max-width:1071px) {
+    .home-1 {
+    width: 100%;
+    height: 100vh;
+    }
+    
+}
+@media screen and (min-width: 910px) and (max-width:1071px) {
+    .home-1 .header {
+    gap: 170px;
+    width: 100%;
+    }
+    
+}
+@media screen and (min-width: 910px) and (max-width:1071px) {
+    .home-1 .header .logo img {
+    width: 100%;
+    }
+    
+}
+@media screen and (min-width: 910px) and (max-width:1071px) {
+    .home-1 .header .option-1 ul li a,
+    .home-1 .header .option-2 h1,
+    .home-1 .header .option-2 p
+    {
+    font-size: 15px;
+    }
+    
+}
+@media screen and (min-width: 910px) and (max-width:1071px) {
+    .home-1 .option {
+    gap: 220px;
+    }
+    
+}
+
+/* ===================================================== */
+
+@media screen and (min-width: 700px) and (max-width:900px) {
+    .home-1 .header {
+    width: 100%;
+    height: 100vh;
+    gap: 100px;
+    }
+    
+}
+@media screen and (min-width: 700px) and (max-width:900px) {
+    .home-1 .option {
+    gap: 200px;
+    }
+    
+}
+@media screen and (min-width: 700px) and (max-width:900px) {
+    .home-1 .header .option-1 ul li a,
+    .home-1 .header .option-2 h1,
+    .home-1 .header .option-2 p{
+    font-size: 11px;
+    }
+    
+}
+@media screen and (min-width: 700px) and (max-width:900px) {
+    .home-1 .header .option-1 ul{
+    gap: 15px;
+    }
+    
+}
+@media screen and (min-width: 700px) and (max-width:900px) {
+    .home-1 .header .logo img{
+    width: 180px;
+    height: 50px;
+    }
+    
+}
+
+/* ======================================== */
+
+@media screen and (min-width: 500px) and (max-width:700px) {
+    .home-1 .header {
+    width: 100%;
+    height: 100vh;
+    gap: 50px;
+    }
+    
+}
+@media screen and (min-width: 500px) and (max-width:700px) {
+    .home-1 .option {
+    gap: 100px;
+    }
+    
+}
+
+@media screen and (min-width: 500px) and (max-width:700px) {
+    .home-1 .header .option-1 ul li a,
+    .home-1 .header .option-2 h1,
+    .home-1 .header .option-2 p{
+    font-size: 8px;
+    }
+    
+}
+@media screen and (min-width: 500px) and (max-width:700px) {
+    .home-1 .header .option-1 ul{
+    gap: 7px;
+    }
+    
+}
+@media screen and (min-width: 500px) and (max-width:700px) {
+    .home-1 .header .logo img{
+    width: 100px;
+    height: 40px;
+    }
+    
+}
+
+/* ========================================================= */
+
+@media screen and (max-width: 500px) {
+    .home-1 .header {
+    width: 100%;
+    height: 100vh;
+    gap: 50px;
+    margin-bottom: 10px;
+    }
+    
+}
+@media screen and (max-width: 500px) {
+    .home-1 .option {
+    gap: 100px;
+    }
+    
+}
+@media screen and (max-width: 500px) {
+    .home-1 .header .option-1 ul li a,
+    .home-1 .header .option-2 h1,
+    .home-1 .header .option-2 p{
+    font-size: 5px;
+    }
+    
+}
+@media screen and (max-width: 500px) {
+    .home-1 .header .option-2{
+    display: none;
+    }
+    
+}
+@media screen and (max-width: 500px) {
+    .home-1 .header .option-1 ul{
+    gap: 5px;
+    }
+    
+}
+@media screen and (max-width: 500px) {
+    .home-1 .header .logo img{
+    width: 50px;
+    height: 30px;
+    }
+    
+}
+
+/* ============================================================ */
+/* ========================== home-2 ========================== */
+/* ============================================================ */
+
+@media screen and (max-width: 500px) {
+    .home-2 .right{
+    display:flex;
+    width: 80%;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+    margin: auto;
+    }
+}
+@media screen and (max-width: 500px) {
+    .home-2 .left{
+    display:flex;
+    width: 100%;
+    flex-direction: column;
+    margin: auto;
+    }
+}
+@media screen and (max-width: 500px) {
+    .home-2 .right .pic img{
+    width:400px;
+    height:400px;
+    }
+}
+@media screen and (min-width: 501px) and (max-width:890px) {
+    .home-2{
+    display:flex;
+    width: 80%;
+    flex-direction: column;
+    margin: auto;
+    }
+}
+@media screen and (min-width: 501px) and (max-width:890px) {
+    .home-2 .right{
+    display:flex;
+    width: 100%;
+    flex-direction: column;
+    align-items:flex-start;
+    margin: auto;
+    }
+}
+@media screen and (min-width: 501px) and (max-width:890px) {
+    .home-2 .left{
+    display:flex;
+    width: 100%;
+    flex-direction: column;
+    margin: auto;
+    }
+}
+@media screen and (min-width: 501px) and (max-width:890px) {
+    .home-2 .right .pic img{
+    width:500px;
+    height:500px;
+    }
+}
+@media screen and (min-width:1520px) {
+.home-2 {
+margin-left: 100px;
+}
+}
+/* ==================================================== */
+
+@media screen and (min-width: 900px) and (max-width:1050px){
+.home-2 .left .pic img,
+.home-2 .right .pic img{
+width: 400px;
+height: 400px;
+}
+
+}
+
+/* ============================================================== */
+
+@media screen and (min-width: 910px) and (max-width:1071px){
+    .home-2 .right{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        }
+}
+@media screen and (min-width: 910px) and (max-width:1071px){
+    .home-2{
+    margin: auto;
+    width: 100%;
+    }
+}
+
+/* ============================================================ */
+/* ========================== home-3 ========================== */
+/* ============================================================ */
+
+@media screen and (min-width: 910px) and (max-width:1071px){
+.home-3 .home-3-pic{
+display: flex;
+width: 80%;
+flex-wrap: wrap;
+}
+}
+
+/* ============================================================ */
+/* ========================== home-4 ========================== */
+/* ============================================================ */
+
+@media screen and (max-width: 1199px){
+    .home-4 .first-div .img-right,
+    .home-4 .last-div .img-left{
+        flex-wrap: wrap;
+    }
+    
+}
+
+/* ============================================================ */
+/* ========================== home-5 ========================== */
+/* ============================================================ */
+@media screen and (max-width: 900px){
+.home-5{
+font-size: 13px;
+width: 100%;
+}
+}
+@media screen and (min-width: 420px) and (max-width: 800px){
+.home-5 .discription h1{
+font-size: 15px;
+}
+}
+@media screen and (min-width: 420px) and (max-width: 800px){
+.home-5 .map{
+width: 80%;
+}
+}
+@media screen and (min-width: 420px) and (max-width: 800px){
+.home-5 .localisation{
+flex-direction: column;
+}
+}
+@media screen and (min-width: 420px) and (max-width: 800px){
+.home-5 .info-lab .message-form,
+.home-5 .info-lab .location-info{
+height:300px ;
+justify-content:flex-start;
+}
+}
+@media screen and (min-width: 420px) and (max-width: 800px){
+.home-5 .info-lab{
+flex-direction: row;
+display: flex;
+height: 300px;
+width: 80%;
+}
+}
+@media screen and (min-width: 420px) and (max-width: 800px){
+    .home-5 .info-lab .location-info p,
+    .home-5 .info-lab .location-info h3,
+    .home-5 .info-lab .message-form{
+    font-size: 15px;
+    text-align: center;
+    flex-wrap: wrap;
+    }
+}
+@media screen and (max-width: 419px){
+    .home-5 .localisation{
+    width: 100%;
+    flex-direction: column;
+    }
+}
+@media screen and (max-width: 419px){
+    .home-5 .info-lab{
+        flex-direction: row;
+        display: flex;
+        height: 300px;
+        width: 90%;
+        }
+}
+@media screen and (max-width: 419px){
+    .home-5 .info-lab .message-form,
+    .home-5 .info-lab .location-info{
+    height:300px ;
+    justify-content:flex-start;
+    }
+}
+@media screen and (max-width: 419px){
+    .home-5 .info-lab .location-info p,
+    .home-5 .info-lab .location-info h3,
+    .home-5  h1,
+    .home-5 .info-lab .message-form{
+    font-size: 12px;
+    text-align: center;
+    flex-wrap: wrap;
+    }
+}
+@media screen and (max-width: 419px){
+    .home-5 .map{
+        width: 90%;
+        }
+}
+
+/* ============================================================ */
+/* ========================== home-5 ========================== */
+/* ============================================================ */

@@ -1,0 +1,37 @@
+.fil-trefile,
+.treillis-soude,
+.poutrelle{
+display: flex;
+flex-direction: column;
+gap: 30px;
+margin: 40px;
+background-color: #e0e0e0;
+padding: 30px;
+border-radius: 20px 200px 20px 20px;
+}
+.fil-trefile div,
+.treillis-soude div,
+.poutrelle div{
+display: flex;
+flex-direction: column;
+gap: 15px;
+} 
+.fil-trefile ul li,
+.treillis-soude ul li,
+.poutrelle ul li{
+list-style:circle;
+font-size: 1rem;
+font-weight: 100;
+}
+.fil-trefile .table table,
+.treillis-soude .table table,
+.poutrelle .table table{
+margin-left: 100px;
+margin-top: 15px;
+margin-bottom: 15px;
+}
+.fil-trefile .table table td,
+.treillis-soude .table table td,
+.poutrelle .table table td{
+background-color: white;
+}

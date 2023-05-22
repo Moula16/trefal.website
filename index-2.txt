@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trefal</title>
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+    <link rel="stylesheet" href="./css/moo.css">
+    <link rel="stylesheet" href="./css/media.css">
+    <link rel="stylesheet" href="./css/home-3.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" data-auto-replace-svg></script>
+</head>
+<body>
+    <!-- <div class="container"> -->
+        <div class="container">
+
+        
+        <div class="home-1">
+            <div class="logo">
+                <img src="images/logo_trefal.png" alt="">
+            </div>
+            <div class="option">
+                <ul>
+                    <li><a href="#home-2">Trefal</a></li>
+                    <li><a href="#home-3">Products</a></li>
+                    <li><a href="qualite.html" target="_blank">quality</a></li>
+                    <li><a href="#home-4">About  Us</a></li>
+                    <li><a href="#home-5">Location</a></li>
+                    <li><a href="#home-6">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="option-2">
+            <h1>Historique de l'entreprise</h1>
+            <p>C’est en juillet de l’année 1979 que l’unité est entrée dans sa phase <br> primaire de production, sa mission principale est la production et la commercialisation <br> des treillis soudé, et des poutrelles métalliques légères, <br> produits qui jadis étaient l’œuvre de nos artisans ferrailleurs.
+
+                TREFAL capitalise  <br> une expérience de plus de 30 ans dans la fabrication des produits destinés principalement <br> au secteur de l’habitat et des travaux publics</p>
+        </div>
+        </div>
+            <!-- --------------------------------- close div home-1 -->
+        <div class="home-2" id="home-2">
+            <div class="left">
+                <div class="writ">
+                    <h1 style="margin-bottom: 15px;">présentation</h1>
+                    <p>TREFAL est une entreprise publique à caractère économique, spécialisé dans <br> la fabrication de produits sidérurgiques de type longs obtenus pour le quasi majorité <br> par le tréfilage de fil de différentes sections. Son rôle est de satisfaire et assurer les besoins <br> du marché national en matière de fil tréfilé, treillis soude, poutrelle métalique … etc.</p>
+                </div>
+                <div class="pic">
+                    <img src="images/work.png" alt="">
+                </div>
+            </div>
+            <div class="right">
+                <div class="writ">
+                    <h1 style="margin-bottom: 5px;">mission</h1>
+                    <p>
+                        Elle comprend quatre ateliers de fabrication qui sont :
+                        <ul style=" margin-top: 10px;">
+                            <li>Atelier de tréfilage (TF)</li>
+                            <li>Atelier de dressage</li>
+                            <li>Atelier de treillis soudés (TS)</li>
+                            <li>Atelier de poutrelles métallique légères (PML)</li>
+                        </ul>
+                    </p>
+                </div>
+                <div class="pic">
+                    <img src="images/atoli-2.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="home-3" id="home-3">
+            <div class="writ-home-3">
+                <h1>nos produits</h1>
+                <p>Notre acier de qualité supérieure vous offre la sécurité et la durabilité dont vous avez besoin pour construire des <br> structures qui résistent au temps et aux intempéries, tout en respectant les normes les plus élevées de l'industrie.</p>
+            </div>
+            <div class="home-3-pic">
+            <div class="father">
+                <div class="img">
+                <img src="images/image1.jpg" alt="">
+                <img src="images/image2.jpg" alt="">
+                </div>
+                <p>Fil Tréfilé </p>
+                <button id="button1" class="btn-home-3"><a >Plus Détails</a></button>
+            </div>
+            <div class="father">
+                <div class="img">
+                <img src="images/image3.jpg" alt="">
+                <img src="images/image4.jpg" alt="">
+                </div>
+                <p>treillis soudé rouleau </p>
+                <button id="button3" class="btn-home-3"><a >Plus Détails</a></button>
+            </div>
+            <div class="father">
+                <div class="img">
+                <img src="images/image5.jpg" alt="">
+                <img src="images/image6.jpg" alt="">
+                </div>
+                <p>Treillis Soudé panneau sandwich </p>
+                <button id="button4" class="btn-home-3"><a >Plus Détails</a></button>
+            </div>
+            <div class="father">
+                <div class="img">
+                <img src="images/image7.png" alt="">
+                <img src="images/image8.jpg" alt="">
+                </div>
+                <p>Fil galvanisé</p>
+                <button id="button2" class="btn-home-3"><a >Plus Détails</a></button>
+            </div>
+            <div class="father">
+                <div class="img">
+                <img src="images/image9.jpg" alt="">
+                <img src="images/image10.jpeg" alt="">
+                </div>
+                <p>Poutrelle Métallique </p>
+                <button class="btn-home-3"><a href="poutrelle.html" target="_blank">Plus Détails</a></button>
+            </div>
+            <div class="father">
+                <div class="img">
+                <img src="images/image11.jpg" alt="">
+                <img src="images/image12.png" alt="">
+                </div>
+                <p>Fil recuit/ Fil d’Attache</p>
+                <button class="btn-home-3"><a href="#" target="_blank">Plus Détails</a></button>
+            </div>
+        </div>
+        </div>
+        <div class="home-4" id="home-4">
+            <div class="first-div">
+                <div class="img-left">
+                    <img src="/images/work-img-1.jpg" alt="">
+                </div>
+                <div class="p-right">
+                    <h1>About <span>Us</span></h1>
+                    <hr style="width: 120px; height: 1px; background-color: #007cc4; border: none; margin-bottom: 40px;"> 
+                    
+                    <p>Trefal est une entreprise d'Etat en Algérie, située dans la zone industrielle de Reghaia, à Alger. L'entreprise se spécialise dans la production de produits en acier tels que des barres pleines, des fils machine, des électrodes de soudage et autres. Axé sur la qualité et la satisfaction de ses clients, trefal s'engage à fournir des produits et des services de haute qualité à ses clients en Algérie et à l'étranger. L'entreprise dispose d'une équipe de professionnels expérimentés qui travaillent sans relâche pour s'assurer que tous les produits sont fabriqués selon les normes les plus élevées et répondent aux besoins de leurs clients. Avec sa solide réputation dans l'industrie et son engagement envers l'excellence, Trefal est un partenaire de confiance pour Trefal en Algérie.</p>
+                </div>
+            </div>
+            <div class="second-div">
+                <p>La société adhère au principe commercial de "La qualité d'abord, le crédit d'abord" et à la philosophie d'entreprise de "L'unité, le travail acharné, l'innovation", et s'engage à créer et à réaliser un modèle de gestion d'entreprise dynamique et un système international de gestion de la qualité, introduisant des équipements de pointe et utilisant une technologie mature. Fournir des produits et services de haute qualité aux clients nationaux et étrangers, avoir gagné la faveur et le soutien des fabricants nationaux et étrangers et avoir établi des relations de coopération à long terme.
+                    Nous pouvons fournir des services personnalisés, des prix compétitifs, un bon contrôle de la qualité et des conseils d'achat, inviter sincèrement les commerçants nationaux et étrangers à visiter et guider, l'encouragement et le soutien des clients sont notre force motrice incessante. J'espère obtenir plus d'attention et de coopération de votre part.
+                    Bienvenue à consulter et à commander!</p>
+            </div>
+            <div class="last-div">
+                <div class="p-left">
+                    <h1>Why <span>Chooes Us</span></h1>
+                    <hr style="width: 100px; height: 1px; background-color: #007cc4; border: none; margin-bottom: 40px;"> 
+                    <p>Nous sommes une équipe efficace, pour vous fournir le service de haute qualité professionnelle de haute efficacité. Nous fournissons des produits à des prix compétitifs basés sur une bonne qualité, et nous organisons chaque expédition à temps.
+
+                        24 heures en ligne. Uniquement pour vous offrir le meilleur service
+                        
+                        Nous ferons de notre mieux pour répondre aux exigences des clients et fournir les meilleurs services après-vente.</p>
+                </div>
+                <div class="img-right">
+                    <img src="/images/work-img-2.jpg" alt="">
+                    <img src="images/work-img-3.jpg" alt="">
+                </div>
+            </div>
+            <div class="footer-div">
+                <div class="h1">
+                    <h1>Factory <span>Show</span></h1>
+                    <hr style="margin:auto; width: 100px; height: 1px; background-color: #007cc4; border: none; margin-bottom: 40px;">
+                </div>
+                <div class="video-div">
+                    <video autoplay muted loop
+                    src="/images/work video.mp4"></video>
+                </div>
+            </div>
+        </div>
+        <div class="home-5" id="home-5">
+            <div class="discription">
+                <h1>company location</h1>
+            </div>
+            <div class="localisation">
+                <div class="info-lab">
+                    <div class="location-info">
+                        <p>Pour plus d'informations, contactez-nous, nous sommes à votre écoute et nous nous engageons à vous répondre dans les meilleurs délais. Du dimanche au jeudi 8h/16h</p>
+                        <hr>
+                        <h3>UNITE TREFAL / ENTPL SPA.</h3>
+                        <p>BP 151, Zone Industriel de Réghaia, Alger - Algerie.</p>
+                        <ul>
+                            <li>Téle :  (+213) 023 96 59 86</li>
+                            <li>Fax  : (+213) 023 96 59 32</li>
+                            <li>E-Mail : unite.trefal@entpl.dz</li>
+                        </ul>
+                    </div>
+                <form class="message-form">
+                    <div class="form-group">
+                      <label for="name">Name:</label>
+                      <input type="text" id="name" name="name" required>
+                    </div>
+                    
+                    <div class="form-group">
+                      <label for="email">Email:</label>
+                      <input type="email" id="email" name="email" required>
+                    </div>
+                    
+                    <div class="form-group">
+                      <label for="message">Message:</label>
+                      <textarea id="message" name="message" required></textarea>
+                    </div>
+                    <button type="submit">Send</button>
+                  </form>                 
+                </div>
+                <div class="map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13436.063551397598!2d3.3170571259503068!3d36.73113808630468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128e5b4d72f05df3%3A0x7d6f648c2a70864d!2sTREFAL!5e0!3m2!1sfr!2sdz!4v1683294425223!5m2!1sfr!2sdz" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+            </div>
+        </div>
+        <div class="home-6" id="home-6">
+            <div class="one">
+                <h1><span>contactez</span> -nous</h1>
+            </div>
+            <div class="loc">
+                <h3>BP 151, Zone Industriel De Réghaia, Alger - Algerie.</h3>
+            </div>
+            <div class="contact">
+                <h4><span>Service commercial : </span> 0561 650 682 / 0561 650 682 </h4>
+                <h4><span>Direction Marketing :</span> 0561 774 887 / 0561 656 406</h4>
+                <h4><span>E-mail : </span>unite.trefal@entpl.dz</h4>
+            </div>
+            <div class="fax">
+                <h4><span>la direction :</span> 0561 650 676</h4>
+                <h4><span>Fax : </span> 023 96 59 32</h4>
+                <h4><span>Tél : </span> 023 96 58 72</h4>
+            </div>
+            <div class="text1">
+                <div class="text2">
+                    <div class="text3"> 
+                        <a href="https://www.facebook.com/profile.php?id=100064056756527"><i class="fab fa-facebook-f"></i></a>
+                    </div>
+                    <span>Facebook</span>
+                </div>
+                    <div class="text2">
+                        <div class="text3"> 
+                            <a href="https://www.instagram.com/entpltrefal/"><i class="fab fa-instagram"></i></a>
+                    </div>
+                    <span>Instagram</span>
+                    </div>
+                    <div class="text2">
+                        <div class="text3"> 
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                    </div>
+                    <span>Twitter</span>
+                    </div>
+                    <div class="text2">
+                        <div class="text3"> 
+                            <a href="#"><i class="fab fa-whatsapp"></i></a>
+                    </div>
+                    <span>Whatsapp</span>
+                    </div>
+                </div>
+                <div class="made">
+                    <p><span>TREFAL</span> ©2023-made by abdelmoula sellam</p>
+                </div>
+        </div>
+        <!-- ------------------------------- close div container -->
+    
+    <script src="js/main.js"></script>
+</body>
+</html> -->
