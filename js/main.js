@@ -1,7 +1,7 @@
 const button1 = document.getElementById("button1");
 const button2 = document.getElementById("button2");
 
-const linkUrl = "../fil-trefile.html";
+const linkUrl = "../trefal.website/fil-trefile.html";
 button1.addEventListener("click", function() {
   window.open(linkUrl, "_blank");
 });
@@ -12,7 +12,7 @@ button2.addEventListener("click", function() {
 const button3 = document.getElementById("button3");
 const button4 = document.getElementById("button4");
 
-const linkUrl2 = "../treillis-soude.html";
+const linkUrl2 = "../trefal.website/treillis-soude.html";
 button3.addEventListener("click", function() {
   window.open(linkUrl2, "_blank");
 });
